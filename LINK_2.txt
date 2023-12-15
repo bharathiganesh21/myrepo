@@ -1,0 +1,12 @@
+<html>
+<body bgcolor="white">
+<h1><center><img src="C:\Users\ADMIN\Desktop\logo.png"></center></h1>
+<h2><center><font face="arial black"color="dark pink">Autonomous College</center><hr></h2>
+<h1><font face="arial balck"color="dark blue">PG COURSES OFFERED:</h1>
+<h2><pre>M.com
+         MCA
+         M.Sc
+         MBA
+         MA</pre><hr>
+</h2>
+</body></html>
